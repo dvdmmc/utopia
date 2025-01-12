@@ -1,5 +1,10 @@
 # Utopia code test app
 
+## Video walk-through
+https://youtube.com/shorts/vPD3_hrhuZc
+
+
+## Additional Notes
 This repository showcases a sample code test of a basic loyalty rewards app.
 The following items haven't yet been addressed due to time constraints:
 * Swiping left/right to like/dislike.  This functionality exists in buttons, swiping on gallery items already moves to a different item in the gallery, so some additional UX/UI thought would be necessary which couldn't be completed in the time provided
